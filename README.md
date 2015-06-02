@@ -2,6 +2,7 @@
 electrum-doged-server
 =========================================
   * Language: Python
+  * Authors: ThomasV (original ltc fork) bitspill & sunerok (dogedcoindark fork)
 
 Features
 --------
