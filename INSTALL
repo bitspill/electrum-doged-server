@@ -3,6 +3,9 @@ detailed information on how to configure your server.
 
 
 TLDR:
+#sudo apt-get install git
+#sudo git clone https://github.com/doged/electrum-doged-server
+# sudo apt-get install libleveldb-dev
 # sudo ./configure
 # sudo python ./setup.py install
 # electrum-doged-server start
